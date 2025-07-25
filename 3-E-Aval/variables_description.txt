@@ -1,0 +1,158 @@
+Variables in DatasetE and their descriptions:
+
+Variable: id_anon
+Description: id_anon - Código de identificação da criança
+--------------------------------------------------
+Variable: e01_leite_peito
+Description: e01_leite_peito - A criança tomou leite do peito ontem
+--------------------------------------------------
+Variable: e02_agua
+Description: e02_agua  - A criança tomou água ontem
+--------------------------------------------------
+Variable: e03_filtrada_fervida
+Description: e03_filtrada_fervida - A água que a criança tomou ontem era filtrada/fervida
+--------------------------------------------------
+Variable: e04_agua_com_acucar
+Description: e04_agua_com_acucar  - A criança tomou água com açúcar ontem
+--------------------------------------------------
+Variable: e05_cha
+Description: e05_cha  - A criança tomou chá ontem
+--------------------------------------------------
+Variable: e06_leite_vaca_po
+Description: e06_leite_vaca_po  - A criança tomou leite de vaca em pó ontem
+--------------------------------------------------
+Variable: e07_leite_vaca_liquido
+Description: e07_leite_vaca_liquido  - A criança tomou leite de vaca líquido ontem
+--------------------------------------------------
+Variable: e08_leite_soja_po
+Description: e08_leite_soja_po - A criança tomou leite de soja em pó ontem
+--------------------------------------------------
+Variable: e09_leite_soja_liquido
+Description: e09_leite_soja_liquido - A criança tomou leite de soja líquido ontem
+--------------------------------------------------
+Variable: e10_formula_infantil
+Description: e10_ formula_infantil  - A criança tomou fórmula infantil ontem
+--------------------------------------------------
+Variable: e11_suco
+Description: e11_suco - A criança tomou suco natural de fruta espremido sem açúcar ontem
+--------------------------------------------------
+Variable: e12_fruta_inteira
+Description: e12_fruta_inteira  - A criança comeu fruta inteira, em pedaço ou amassada ontem
+--------------------------------------------------
+Variable: e13_fruta_vezes
+Description: e13_fruta_vezes - Quantas vezes a criança comeu fruta inteira, em pedaço ou amassada ontem
+--------------------------------------------------
+Variable: e14_manga
+Description: e14_manga  - A criança comeu manga, mamão ou goiaba ontem
+--------------------------------------------------
+Variable: e16_comida_sal
+Description: e16_comida_sal - A criança comeu comida de sal (de panela, papa ou sopa) ontem? 
+--------------------------------------------------
+Variable: e17_sal_vezes
+Description: e17_sal_vezes  - Quantas vezes a criança comeu comida de sal (de panela, papa ou sopa) ontem
+--------------------------------------------------
+Variable: e18_oferecida
+Description: e18_oferecida - Essa comida foi oferecida de que forma
+--------------------------------------------------
+Variable: e181_pedacos
+Description: e181_pedacos                                                
+--------------------------------------------------
+Variable: e182_amassada
+Description: e182_amassada 
+--------------------------------------------------
+Variable: e183_peneira
+Description: e183_peneira  
+--------------------------------------------------
+Variable: e184_liquidificada
+Description: e184 _liquidificada  
+--------------------------------------------------
+Variable: e185_caldo
+Description: e185_caldo 
+--------------------------------------------------
+Variable: e189_nao_sabe
+Description: e189_nao_sabe  
+--------------------------------------------------
+Variable: e19_mingau
+Description: e19_mingau  - A criança comeu mingau ou papa com leite ontem
+--------------------------------------------------
+Variable: e20_iogurte
+Description: e20_iogurte - A criança tomou iogurte ontem
+--------------------------------------------------
+Variable: e21_arroz
+Description: e21_arroz  - A criança comeu arroz, batata, inhame, cará, aipim/macaxeira/mandioca, farinha ou macarrão (sem ser macarrão instantâneo, tipo miojo) ontem
+--------------------------------------------------
+Variable: e211a_pao_frances
+Description: e211a_pao_frances  
+--------------------------------------------------
+Variable: e212a_feito_em_casa
+Description: e212a_feito_em_casa  
+--------------------------------------------------
+Variable: e213a_industrializado
+Description: e213a_industrializado 
+--------------------------------------------------
+Variable: e214a_nao_comeu
+Description: e214a_nao_comeu
+--------------------------------------------------
+Variable: e219a_nao_sabe
+Description: e219a_nao_sabe  
+--------------------------------------------------
+Variable: e21a_pao
+Description: e21a_pao - A criança comeu pão ontem 
+--------------------------------------------------
+Variable: e22_legumes
+Description: e22_legumes  - A criança comeu legumes diferentes de batata, inhame, cará, aipim/macaxeira/mandioca ontem
+--------------------------------------------------
+Variable: e23_cenoura
+Description: e23_cenoura  - A criança comeu cenoura, abóbora (jerimum) ou batata doce ontem
+--------------------------------------------------
+Variable: e24_couve
+Description: e24_couve  - A criança comeu couve, espinafre, taioba, brócolis, caruru folha, beldroega, bertalha ou mostarda ontem
+--------------------------------------------------
+Variable: e25_verduras
+Description: e25_verduras  - A criança comeu outras verduras, sem ser couve, espinafre, taioba, brócolis, caruru folha, beldroega, bertalha ou mostarda ontem
+--------------------------------------------------
+Variable: e26_feijao
+Description: e26_feijao - A criança comeu feijão ou outros tipos de grãos, como lentilha, ervilha ou grão de bico ontem
+--------------------------------------------------
+Variable: e27_carne
+Description: e27_carne - A criança comeu algum tipo de carne (de boi, frango, porco, peixe ou outro) ontem
+--------------------------------------------------
+Variable: e28_figado
+Description: e28_figado - A criança comeu fígado ontem
+--------------------------------------------------
+Variable: e29_ovo
+Description: e29_ovo  -  A criança comeu ovo (frito, mexido, omelete, cozido ou gemada) ontem?
+--------------------------------------------------
+Variable: e30_hamburger
+Description: e30_hamburger  - Além dos tipos de carne citados anteriormente (de boi, frango, porco, peixe ou outro), a criança comeu hambúrguer, presunto, mortadela, salame, nugget, linguiça ou salsicha ontem
+--------------------------------------------------
+Variable: e31_salgadinhos
+Description: e31_salgadinhos - A criança comeu salgadinhos de pacote, tipo chips como Fofura, Fandangos, Cheetos ou outros parecidos ontem
+--------------------------------------------------
+Variable: e32_suco_industrializado
+Description: e32_suco_industrializado -  A criança bebeu suco industrializado, de caixinha, água de coco de caixinha, guaraná natural ou xaropes de guaraná, refresco de groselha, suco em pó ou suco natural de fruta com adição de açúcar ontem
+--------------------------------------------------
+Variable: e33_refrigerante
+Description: e33_refrigerante - A criança bebeu refrigerante ontem
+--------------------------------------------------
+Variable: e34_macarrao
+Description: e34_macarrao - A criança comeu macarrão instantâneo ontem
+--------------------------------------------------
+Variable: e35_biscoito
+Description: e35_biscoito  -  A criança comeu biscoito/bolacha doce ou salgada ontem
+--------------------------------------------------
+Variable: e36_bala
+Description: e36_bala -  A criança comeu bala, pirulito ou outras guloseimas ontem
+--------------------------------------------------
+Variable: e37_tempero
+Description: e37_tempero -  A criança comeu algum alimento que levou tempero pronto industrializado (tipo Sazon, caldo Knorr) ontem
+--------------------------------------------------
+Variable: e38_farinhas
+Description: e38_farinhas - A criança comeu farinhas instantâneas de arroz, milho, trigo ou aveia (por exemplo: Mucilon, Farinha láctea, Neston, Vitalon, Milnutri) ontem
+--------------------------------------------------
+Variable: e39_mamadeira
+Description: e39_mamadeira -  A criança recebeu algum alimento por mamadeira ou chuquinha ontem
+--------------------------------------------------
+Variable: e40_adocado
+Description: e40_adocado  - A criança comeu alimento adoçado com açúcar, mel ou melado ontem
+--------------------------------------------------

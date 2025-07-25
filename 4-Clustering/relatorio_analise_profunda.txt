@@ -1,0 +1,125 @@
+ANÁLISE PROFUNDA DOS CLUSTERS - ENANI
+============================================================
+
+RESUMO EXECUTIVO
+----------------------------------------
+Total de crianças: 14,558
+Número de clusters: 10
+
+PERFIS IDENTIFICADOS:
+
+Cluster 0: Alimentação Láctea Mista
+  Tamanho: 2,739 (18.8%)
+  Características principais:
+    - Leite materno: 15.7%
+    - Comida com sal: 98.8%
+    - Ultraprocessados: 26.8%
+    - Frutas/Verduras: 27.5%
+    - Uso de mamadeira: 53.2%
+
+Cluster 1: Alimentação Estabelecida Pobre em FV
+  Tamanho: 1,720 (11.8%)
+  Características principais:
+    - Leite materno: 21.2%
+    - Comida com sal: 97.3%
+    - Ultraprocessados: 23.5%
+    - Frutas/Verduras: 22.4%
+    - Uso de mamadeira: 36.2%
+
+Cluster 2: Alimentação Láctea com Mamadeira
+  Tamanho: 1,221 (8.4%)
+  Características principais:
+    - Leite materno: 48.0%
+    - Comida com sal: 38.0%
+    - Ultraprocessados: 6.6%
+    - Frutas/Verduras: 10.2%
+    - Uso de mamadeira: 77.3%
+
+Cluster 3: Alimentação Estabelecida com Alto Ultraprocessado
+  Tamanho: 1,901 (13.1%)
+  Características principais:
+    - Leite materno: 22.9%
+    - Comida com sal: 99.4%
+    - Ultraprocessados: 43.2%
+    - Frutas/Verduras: 41.4%
+    - Uso de mamadeira: 50.4%
+
+Cluster 4: Aleitamento Materno Exclusivo
+  Tamanho: 1,640 (11.3%)
+  Características principais:
+    - Leite materno: 96.2%
+    - Comida com sal: 9.1%
+    - Ultraprocessados: 0.8%
+    - Frutas/Verduras: 2.7%
+    - Uso de mamadeira: 6.2%
+
+Cluster 5: Alimentação Láctea Mista
+  Tamanho: 1,189 (8.2%)
+  Características principais:
+    - Leite materno: 27.8%
+    - Comida com sal: 97.5%
+    - Ultraprocessados: 26.8%
+    - Frutas/Verduras: 26.4%
+    - Uso de mamadeira: 70.0%
+
+Cluster 6: Alimentação Estabelecida Pobre em FV
+  Tamanho: 810 (5.6%)
+  Características principais:
+    - Leite materno: 16.7%
+    - Comida com sal: 87.7%
+    - Ultraprocessados: 10.5%
+    - Frutas/Verduras: 8.5%
+    - Uso de mamadeira: 11.9%
+
+Cluster 7: Alimentação Láctea Mista
+  Tamanho: 1,258 (8.6%)
+  Características principais:
+    - Leite materno: 44.9%
+    - Comida com sal: 96.0%
+    - Ultraprocessados: 22.7%
+    - Frutas/Verduras: 27.0%
+    - Uso de mamadeira: 18.1%
+
+Cluster 8: Alimentação Estabelecida com Alto Ultraprocessado
+  Tamanho: 984 (6.8%)
+  Características principais:
+    - Leite materno: 24.8%
+    - Comida com sal: 98.9%
+    - Ultraprocessados: 36.6%
+    - Frutas/Verduras: 29.7%
+    - Uso de mamadeira: 72.2%
+
+Cluster 9: Alimentação Estabelecida Pobre em FV
+  Tamanho: 1,096 (7.5%)
+  Características principais:
+    - Leite materno: 17.7%
+    - Comida com sal: 93.2%
+    - Ultraprocessados: 34.0%
+    - Frutas/Verduras: 14.5%
+    - Uso de mamadeira: 20.5%
+
+
+RECOMENDAÇÕES PARA PRÓXIMAS ANÁLISES:
+----------------------------------------
+1. Cruzar clusters com variáveis demográficas:
+   - Idade da criança
+   - Região geográfica
+   - Condição socioeconômica
+   - Escolaridade materna
+
+2. Cruzar com indicadores de saúde:
+   - Peso para idade
+   - Altura para idade
+   - IMC para idade
+
+3. Possíveis subdivisões:
+   - Cluster 0: Alta variabilidade
+   - Cluster 1: Alta variabilidade
+   - Cluster 2: Alta variabilidade
+   - Cluster 3: Alta variabilidade
+   - Cluster 4: Alta variabilidade
+   - Cluster 5: Alta variabilidade
+   - Cluster 6: Alta variabilidade
+   - Cluster 7: Alta variabilidade
+   - Cluster 8: Alta variabilidade
+   - Cluster 9: Alta variabilidade

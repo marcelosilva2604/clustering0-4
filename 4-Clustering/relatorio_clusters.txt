@@ -1,0 +1,96 @@
+RELATÓRIO DE CLUSTERING - PADRÕES ALIMENTARES INFANTIS
+============================================================
+
+Total de crianças: 14,558
+Número de clusters: 10
+
+
+CLUSTER 0: 2,739 crianças (18.8%)
+----------------------------------------
+Principais alimentos:
+  - e214a_nao_comeu: 100.0%
+  - e16_comida_sal: 98.8%
+  - e02_agua: 95.7%
+  - e181_pedacos: 91.4%
+  - e21_arroz: 90.9%
+
+CLUSTER 1: 1,720 crianças (11.8%)
+----------------------------------------
+Principais alimentos:
+  - e16_comida_sal: 97.3%
+  - e02_agua: 94.8%
+  - e181_pedacos: 92.2%
+  - e21_arroz: 89.8%
+  - e27_carne: 85.8%
+
+CLUSTER 2: 1,221 crianças (8.4%)
+----------------------------------------
+Principais alimentos:
+  - e214a_nao_comeu: 100.0%
+  - e02_agua: 83.0%
+  - e39_mamadeira: 77.3%
+  - e01_leite_peito: 48.0%
+  - e10_formula_infantil: 40.8%
+
+CLUSTER 3: 1,901 crianças (13.1%)
+----------------------------------------
+Principais alimentos:
+  - e16_comida_sal: 99.4%
+  - e02_agua: 98.4%
+  - e21_arroz: 95.7%
+  - e181_pedacos: 94.1%
+  - e27_carne: 92.3%
+
+CLUSTER 4: 1,640 crianças (11.3%)
+----------------------------------------
+Principais alimentos:
+  - e214a_nao_comeu: 99.9%
+  - e01_leite_peito: 96.2%
+  - e02_agua: 33.4%
+  - e16_comida_sal: 9.1%
+  - e12_fruta_inteira: 6.3%
+
+CLUSTER 5: 1,189 crianças (8.2%)
+----------------------------------------
+Principais alimentos:
+  - e19_mingau: 100.0%
+  - e214a_nao_comeu: 100.0%
+  - e02_agua: 98.7%
+  - e16_comida_sal: 97.5%
+  - e21_arroz: 84.8%
+
+CLUSTER 6: 810 crianças (5.6%)
+----------------------------------------
+Principais alimentos:
+  - e02_agua: 88.0%
+  - e16_comida_sal: 87.7%
+  - e211a_pao_frances: 80.9%
+  - e181_pedacos: 79.5%
+  - e21_arroz: 66.4%
+
+CLUSTER 7: 1,258 crianças (8.6%)
+----------------------------------------
+Principais alimentos:
+  - e214a_nao_comeu: 99.9%
+  - e02_agua: 96.4%
+  - e16_comida_sal: 96.0%
+  - e21_arroz: 85.9%
+  - e181_pedacos: 83.7%
+
+CLUSTER 8: 984 crianças (6.8%)
+----------------------------------------
+Principais alimentos:
+  - e19_mingau: 100.0%
+  - e02_agua: 99.3%
+  - e16_comida_sal: 98.9%
+  - e21_arroz: 90.2%
+  - e27_carne: 89.1%
+
+CLUSTER 9: 1,096 crianças (7.5%)
+----------------------------------------
+Principais alimentos:
+  - e40_adocado: 100.0%
+  - e02_agua: 96.5%
+  - e16_comida_sal: 93.2%
+  - e181_pedacos: 86.8%
+  - e21_arroz: 80.8%
